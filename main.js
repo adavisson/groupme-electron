@@ -6,7 +6,7 @@ const createWindow = () => {
   const win = new BrowserWindow({
     width: 1300,
     height: 900,
-    title: 'Gmail',
+    title: 'Groupme',
   })
 
   win.loadURL('https://www.groupme.com')
